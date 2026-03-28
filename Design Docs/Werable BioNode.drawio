@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="Page-1" id="kdr1D5AsXP2qeaeHXdVw">
-    <mxGraphModel dx="291" dy="153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
             <mxPoint x="590" y="370.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BAGEx4Xcw8m6xMS7BeU6-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SPI NAND FLASH" vertex="1">
+        <mxCell id="BAGEx4Xcw8m6xMS7BeU6-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SPI NAND FLASH -&amp;nbsp;&lt;span style=&quot;font-family: Inter, &amp;quot;Microsoft YaHei&amp;quot;, PingFangSC, PingFangSC-Semibold, notosans; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(102, 102, 102), rgb(255, 255, 255));&quot;&gt;GD5F1GQ5REYIGR&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="610" y="340" as="geometry" />
         </mxCell>
         <mxCell id="BAGEx4Xcw8m6xMS7BeU6-14" edge="1" parent="1" source="BAGEx4Xcw8m6xMS7BeU6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BAGEx4Xcw8m6xMS7BeU6-3">
@@ -103,9 +103,6 @@
             <mxPoint x="260" y="400" as="sourcePoint" />
             <mxPoint x="414" y="515" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BAGEx4Xcw8m6xMS7BeU6-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.8V Buck OLED Rail" vertex="1">
-          <mxGeometry height="40" width="70" x="315" y="470" as="geometry" />
         </mxCell>
         <mxCell id="BAGEx4Xcw8m6xMS7BeU6-30" edge="1" parent="1" source="BAGEx4Xcw8m6xMS7BeU6-3" style="endArrow=classic;html=1;rounded=0;exitX=0.789;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -200,6 +197,9 @@
         </mxCell>
         <mxCell id="BAGEx4Xcw8m6xMS7BeU6-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I2C" vertex="1">
           <mxGeometry height="30" width="60" x="389" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="BAGEx4Xcw8m6xMS7BeU6-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.8V Buck Logic Rail" vertex="1">
+          <mxGeometry height="40" width="70" x="320" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
