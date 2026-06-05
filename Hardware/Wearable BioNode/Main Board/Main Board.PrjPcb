@@ -53,6 +53,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=BioNode.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RXGACNSK
+
+[Document2]
+DocumentPath=BioNode.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=INNIFGYS
+
+[Document3]
 DocumentPath=Root.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -69,7 +103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGLEHWTO
 
-[Document2]
+[Document4]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWKOTXIN
 
-[Document3]
+[Document5]
 DocumentPath=PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLFHQYML
 
-[Document4]
+[Document6]
 DocumentPath=OLED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCLVNOMD
 
-[Document5]
+[Document7]
 DocumentPath=IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OENELLUW
 
-[Document6]
+[Document8]
 DocumentPath=Fuel Gauge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHOKYEYC
 
-[Document7]
+[Document9]
 DocumentPath=PMIC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document10]
 DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document11]
 DocumentPath=IMU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document12]
 DocumentPath=NOR Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMETFEUZ
 
-[Document11]
+[Document13]
 DocumentPath=Fuel Gauge.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document14]
 DocumentPath=NOR Flash.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document15]
 DocumentPath=Main Board.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
