@@ -52,40 +52,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Main Board\BioNode.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=INNIFGYS
-
-[Document2]
-DocumentPath=Main Board\BioNode.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RXGACNSK
-
-[Document3]
 DocumentPath=ActiveBOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +68,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document2]
 DocumentPath=Schematic.MbsDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +85,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=d7439f19-44ac-41f0-919a-f7a5314d9d2b
 
-[Document5]
+[Document3]
 DocumentPath=Assembly1.MbaDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=31a55ad3-55c5-4f2c-b048-54923e8c7ada
 
-[Document6]
+[Document4]
 DocumentPath=Main Board\Main Board.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +125,7 @@ ProjectName=Main Board.PrjPcb
 VaultURL=https://gugan-sivakumar.365.altium.com:443/vault/
 VaultName=gugan Sivakumar
 
-[Document7]
+[Document5]
 DocumentPath=Sensor Board\Sensor Board.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
