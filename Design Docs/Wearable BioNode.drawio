@@ -1,10 +1,10 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="CBl6GuvdJ9SK1baWPvYd">
-    <mxGraphModel dx="1601" dy="1104" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="561" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eroszRtAwOHyx4oIQ_r--8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#56517E,#FFCC99);" value="" vertex="1">
+        <mxCell id="eroszRtAwOHyx4oIQ_r--8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#FF3333,#FFCC99);" value="" vertex="1">
           <mxGeometry height="871" width="635" x="101" y="388" as="geometry" />
         </mxCell>
         <mxCell id="eroszRtAwOHyx4oIQ_r--37" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="eroszRtAwOHyx4oIQ_r--14">
@@ -21,7 +21,7 @@
         <mxCell id="eroszRtAwOHyx4oIQ_r--10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bio-potential AFE&lt;div&gt;ECG / EMG -&amp;nbsp;ADS1292&lt;/div&gt;" vertex="1">
           <mxGeometry height="189" width="137.25" x="371.75" y="755" as="geometry" />
         </mxCell>
-        <mxCell id="eroszRtAwOHyx4oIQ_r--11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Optical Sensor (SpO₂/HR) - MAX86141" vertex="1">
+        <mxCell id="eroszRtAwOHyx4oIQ_r--11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PPG Sensor (SpO₂/HR) - MAX86141" vertex="1">
           <mxGeometry height="174" width="120" x="372.5" y="969" as="geometry" />
         </mxCell>
         <mxCell id="eroszRtAwOHyx4oIQ_r--61" edge="1" parent="1" source="eroszRtAwOHyx4oIQ_r--12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.349;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="eroszRtAwOHyx4oIQ_r--28">
@@ -35,8 +35,8 @@
         <mxCell id="eroszRtAwOHyx4oIQ_r--12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TA1 Grade Titanium Dry Electrodes (Bottom of PCB) - (1 ECG, 2 EMG, 1 RLD)" vertex="1">
           <mxGeometry height="80" width="173" x="199.5" y="403" as="geometry" />
         </mxCell>
-        <mxCell id="eroszRtAwOHyx4oIQ_r--13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#FFFFFF,#FFCC99);" value="" vertex="1">
-          <mxGeometry height="794" width="593" x="1064" y="454.5" as="geometry" />
+        <mxCell id="eroszRtAwOHyx4oIQ_r--13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#FF3333,#FFCC99);" value="" vertex="1">
+          <mxGeometry height="794" width="636" x="1048" y="452" as="geometry" />
         </mxCell>
         <mxCell id="eroszRtAwOHyx4oIQ_r--14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="nRF54L10 (w/ BLE)" vertex="1">
           <mxGeometry height="205" width="120" x="1292" y="696.5" as="geometry" />
@@ -44,8 +44,16 @@
         <mxCell id="eroszRtAwOHyx4oIQ_r--15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IMU -&amp;nbsp;LSM6DSV16X (w/ QVAR)" vertex="1">
           <mxGeometry height="60" width="124" x="1250" y="511" as="geometry" />
         </mxCell>
+        <mxCell id="vEdlxCq0vVzEuJBlY6MA-2" edge="1" parent="1" source="eroszRtAwOHyx4oIQ_r--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="eroszRtAwOHyx4oIQ_r--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEdlxCq0vVzEuJBlY6MA-3" connectable="0" parent="vEdlxCq0vVzEuJBlY6MA-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="QSPI (SDR)" vertex="1">
+          <mxGeometry relative="1" x="0.204" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eroszRtAwOHyx4oIQ_r--16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="QSPI 512 Mbit NOR FLASH -&amp;nbsp;&lt;span style=&quot;font-family: Inter, &amp;quot;Microsoft YaHei&amp;quot;, PingFangSC, PingFangSC-Semibold, notosans; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(102, 102, 102), rgb(255, 255, 255));&quot;&gt;S25FS512SDSBHB213&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="1432" y="526" as="geometry" />
+          <mxGeometry height="60" width="170" x="1444" y="565" as="geometry" />
         </mxCell>
         <mxCell id="eroszRtAwOHyx4oIQ_r--17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1.3 inch COG PMOLED (SH1107 Driver) -&amp;nbsp;X150-2828KSWKG01-H25" vertex="1">
           <mxGeometry height="60" width="196" x="1455" y="662" as="geometry" />
@@ -394,20 +402,6 @@
             <mxPoint x="-1" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eroszRtAwOHyx4oIQ_r--110" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1380" y="638" />
-            </Array>
-            <mxPoint x="1456" y="556" as="sourcePoint" />
-            <mxPoint x="1379.6000000000001" y="696.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eroszRtAwOHyx4oIQ_r--111" connectable="0" parent="eroszRtAwOHyx4oIQ_r--110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="QSPI (SDR)" vertex="1">
-          <mxGeometry relative="1" x="0.0514" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eroszRtAwOHyx4oIQ_r--112" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -501,7 +495,7 @@
             <mxPoint x="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2SvVSmVpdlOgwpsUyUDe-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=21;fontColor=light-dark(#000000,#00E170);strokeColor=light-dark(#000000,#66FF66);" value="" vertex="1">
+        <mxCell id="2SvVSmVpdlOgwpsUyUDe-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=21;fontColor=light-dark(#000000,#00E170);strokeColor=light-dark(#FF9933,#66FF66);" value="" vertex="1">
           <mxGeometry height="572" width="203" x="791" y="691" as="geometry" />
         </mxCell>
         <mxCell id="2SvVSmVpdlOgwpsUyUDe-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontColor=#00CCCC;" value="Board to Board Mezzanine Connector" vertex="1">
