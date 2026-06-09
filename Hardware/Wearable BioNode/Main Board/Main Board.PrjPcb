@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=97FD983F-7414-4C8E-8B96-5FFA02BB4200
+VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
+ReleaseVaultName=gugan Sivakumar
+ItemGUID=97FD983F-7414-4C8E-8B96-5FFA02BB4200
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -135,7 +138,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GLFHQYML
 
 [Document6]
-DocumentPath=OLED.SchDoc
+DocumentPath=PMOLED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,6 +343,23 @@ DocumentUniqueId=KKDUDCVJ
 
 [Document18]
 DocumentPath=Root.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=PMOLED.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1342,16 +1362,10 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=BioNode.SchLib
-ComponentDesignItemID0=GRM033R61C105ME15D
-ComponentSymbolReference0=GRM033R61C105ME15D
-ComponentUpdate0=0
+ComponentDesignItemID0=TPS61046YFFR
+ComponentSymbolReference0=TPS61046YFFR
+ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=BioNode.SchLib
-ComponentDesignItemID1=TPS61046YFFR
-ComponentSymbolReference1=TPS61046YFFR
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1384,9 +1398,6 @@ ModelTypeUpdate0=1
 ModelType0=PCBLIB
 ModelName0=BGA6C40P2X3_88X123X62
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=CL03A105MQ3CSNH
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

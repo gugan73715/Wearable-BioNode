@@ -27,7 +27,7 @@ AutoSheetNumbering=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
-ReportSuppressedErrorsInMessages=0
+ReportSuppressedErrorsInMessages=1
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
@@ -35,10 +35,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=E3A54085-47B3-49E1-9DAC-253AA84E7F82
+ManagedProjectGUID=247EA210-1ACA-45FE-85E2-483EF21DD1BB
 VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
 ReleaseVaultName=gugan Sivakumar
-ItemGUID=E3A54085-47B3-49E1-9DAC-253AA84E7F82
+ItemGUID=247EA210-1ACA-45FE-85E2-483EF21DD1BB
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E&ItemGUID=B7B72097-B468-4347-9791-41FED8E8994C&RevisionGUID=1F6C301D-5AE6-475A-9149-927A0D6D35C7&"MainFilename=MultiBoard.PrjMbd"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
@@ -87,52 +87,6 @@ GenerateClassCluster=0
 DocumentUniqueId=31a55ad3-55c5-4f2c-b048-54923e8c7ada
 
 [Document3]
-DocumentPath=Main Board\Main Board.PrjPcb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
-ManagedProjectGUID=E72CDCEB-4957-4D5B-8690-96F71CCAD7CB
-RevisionGUID=
-ProjectName=Main Board.PrjPcb
-VaultURL=https://gugan-sivakumar.365.altium.com:443/vault/
-VaultName=gugan Sivakumar
-
-[Document4]
-DocumentPath=Sensor Board\Sensor Board.PrjPcb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
-ManagedProjectGUID=16CFAE6B-0070-4499-B1D7-64E29E25A9B2
-RevisionGUID=
-ProjectName=Sensor Board.PrjPcb
-VaultURL=https://gugan-sivakumar.365.altium.com:443/vault/
-VaultName=gugan Sivakumar
-
-[Document5]
 DocumentPath=Wearable BioNode.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,6 +102,52 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document4]
+DocumentPath=..\Main Board\Main Board.PrjPcb
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
+ManagedProjectGUID=97FD983F-7414-4C8E-8B96-5FFA02BB4200
+RevisionGUID=
+ProjectName=Main Board.PrjPcb
+VaultURL=https://gugan-sivakumar.365.altium.com:443/vault/
+VaultName=gugan Sivakumar
+
+[Document5]
+DocumentPath=..\Sensor Board\Sensor Board.PrjPcb
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
+ManagedProjectGUID=1D28D447-5CBB-4159-8527-99261BB10211
+RevisionGUID=
+ProjectName=Sensor Board.PrjPcb
+VaultURL=https://gugan-sivakumar.365.altium.com:443/vault/
+VaultName=gugan Sivakumar
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -969,7 +969,7 @@ Type65=2
 Type66=3
 Type67=2
 Type68=2
-Type69=2
+Type69=0
 Type70=2
 Type71=2
 Type72=2
