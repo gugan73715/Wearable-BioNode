@@ -53,7 +53,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=BioNode.PcbLib
+DocumentPath=..\..\Main Board\BioNode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,7 +70,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RXGACNSK
 
 [Document2]
-DocumentPath=BioNode.SchLib
+DocumentPath=..\..\Main Board\BioNode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,7 +104,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YGLEHWTO
 
 [Document4]
-DocumentPath=MCU.SchDoc
+DocumentPath=..\..\Main Board\MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -121,7 +121,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SWKOTXIN
 
 [Document5]
-DocumentPath=PMIC.SchDoc
+DocumentPath=..\..\Main Board\PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138,7 +138,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GLFHQYML
 
 [Document6]
-DocumentPath=PMOLED.SchDoc
+DocumentPath=..\..\Main Board\PMOLED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,7 +155,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CCLVNOMD
 
 [Document7]
-DocumentPath=IMU.SchDoc
+DocumentPath=..\..\Main Board\IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -172,7 +172,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OENELLUW
 
 [Document8]
-DocumentPath=Fuel Gauge.SchDoc
+DocumentPath=..\..\Main Board\Fuel Gauge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -189,7 +189,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YHOKYEYC
 
 [Document9]
-DocumentPath=PMIC.Harness
+DocumentPath=..\..\Main Board\PMIC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -206,7 +206,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=MCU.Harness
+DocumentPath=..\..\Main Board\MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -223,7 +223,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=IMU.Harness
+DocumentPath=..\..\Main Board\IMU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -240,7 +240,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=NOR Flash.SchDoc
+DocumentPath=..\..\Main Board\NOR Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -257,7 +257,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CMETFEUZ
 
 [Document13]
-DocumentPath=Fuel Gauge.Harness
+DocumentPath=..\..\Main Board\Fuel Gauge.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -274,7 +274,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=NOR Flash.Harness
+DocumentPath=..\..\Main Board\NOR Flash.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -291,24 +291,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=Main Board.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
-DocumentPath=Main Board.PcbDoc
+DocumentPath=..\..\Main Board\Main Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -324,8 +307,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBEIBBLT
 
-[Document17]
-DocumentPath=NFC.SchDoc
+[Document16]
+DocumentPath=..\..\Main Board\GNSS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -341,8 +324,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKDUDCVJ
 
-[Document18]
-DocumentPath=Root.Harness
+[Document17]
+DocumentPath=..\..\Main Board\PMOLED.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -358,8 +341,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=..\..\..\..\..\LORA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMYNCRWN
+
 [Document19]
-DocumentPath=PMOLED.Harness
+DocumentPath=Root.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
