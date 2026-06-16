@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="CBl6GuvdJ9SK1baWPvYd">
-    <mxGraphModel dx="4713" dy="2803" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="673" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
         </mxCell>
         <mxCell id="eroszRtAwOHyx4oIQ_r--95" connectable="0" parent="eroszRtAwOHyx4oIQ_r--85" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.95V (SBB0)" vertex="1">
           <mxGeometry relative="1" x="-0.0258" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="56" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eroszRtAwOHyx4oIQ_r--97" connectable="0" parent="eroszRtAwOHyx4oIQ_r--85" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="LDO0_IN" vertex="1">
@@ -418,7 +418,7 @@
           <mxGeometry height="60" width="124" x="1357" y="744" as="geometry" />
         </mxCell>
         <mxCell id="2SvVSmVpdlOgwpsUyUDe-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=35;fontColor=#00CCCC;" value="Main PCB (30 * 30mm, 8 layers)" vertex="1">
-          <mxGeometry height="30" width="513" x="1370" y="430" as="geometry" />
+          <mxGeometry height="30" width="513" x="1370" y="438" as="geometry" />
         </mxCell>
         <mxCell id="2SvVSmVpdlOgwpsUyUDe-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=35;fontColor=#00CCCC;" value="Sensor PCB (30 * 30mm, 6 layers)" vertex="1">
           <mxGeometry height="30" width="634" x="383.5" y="371" as="geometry" />
@@ -496,8 +496,8 @@
         <mxCell id="vEdlxCq0vVzEuJBlY6MA-15" edge="1" parent="1" source="vEdlxCq0vVzEuJBlY6MA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vEdlxCq0vVzEuJBlY6MA-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vEdlxCq0vVzEuJBlY6MA-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1,176.45 MHz Chip Antenna with LC matching" vertex="1">
-          <mxGeometry height="60" width="124" x="1336" y="554" as="geometry" />
+        <mxCell id="vEdlxCq0vVzEuJBlY6MA-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1,575.42 MHz L1 Band Chip Antenna with LC matching" vertex="1">
+          <mxGeometry height="60" width="132" x="1328" y="554" as="geometry" />
         </mxCell>
         <mxCell id="vEdlxCq0vVzEuJBlY6MA-19" edge="1" parent="1" source="vEdlxCq0vVzEuJBlY6MA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="eroszRtAwOHyx4oIQ_r--114">
           <mxGeometry relative="1" as="geometry" />
@@ -557,7 +557,7 @@
           <mxGeometry height="60" width="80" x="1288" y="1045" as="geometry" />
         </mxCell>
         <mxCell id="vEdlxCq0vVzEuJBlY6MA-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#FF3333,#FFCC99);" value="" vertex="1">
-          <mxGeometry height="794" width="705" x="1263" y="478" as="geometry" />
+          <mxGeometry height="794" width="705" x="1257" y="489" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
