@@ -1,0 +1,69 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="XCrxx5rRu1nj_IgTH_1d">
+    <mxGraphModel dx="2828" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KURYSRoDygEF-QiSVCdS-5" edge="1" parent="1" source="KURYSRoDygEF-QiSVCdS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KURYSRoDygEF-QiSVCdS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="495" />
+              <mxPoint x="290" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-6" edge="1" parent="1" source="KURYSRoDygEF-QiSVCdS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KURYSRoDygEF-QiSVCdS-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="495" />
+              <mxPoint x="290" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Electrodes / Methodology of a Non-Invasive Electrochemical based Screening Tool for Cystic Fibrosis&amp;nbsp;" vertex="1">
+          <mxGeometry height="157.5" width="120" x="140" y="415.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-8" edge="1" parent="1" source="KURYSRoDygEF-QiSVCdS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Conductometric (Current based)" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-12" edge="1" parent="1" source="KURYSRoDygEF-QiSVCdS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KURYSRoDygEF-QiSVCdS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-18" edge="1" parent="1" source="KURYSRoDygEF-QiSVCdS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="494.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Potentiometric&lt;div&gt;(Half-cell Voltage Based)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="464.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-13" edge="1" parent="1" source="KURYSRoDygEF-QiSVCdS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KURYSRoDygEF-QiSVCdS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Coulometric&lt;div&gt;(Charge Based)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Hold constant voltage between two Ag/Agcl electrodes. So, Current&amp;nbsp;∝ Concentration of ions (Na+, Cl-, K+ etc..)&lt;div&gt;&lt;br&gt;Based on Kohlrausch Law, R = L/(A * G) and Ohm&#39;s Law&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="270" x="540" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Measure the Half-cell potential of a Ag/Agcl electrode against a reference electrode whose potential does not depend on Cl- concentration. So, Potential ∝ log(Concentration of Cl-)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Based on Nernst equation and Nernst response (59.2mV per decade for Cl-)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="270" x="540" y="427" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Drive constant current between Ag anode and a inert non-Ag/Agcl eletrode like Pt to release Ag+ from anode and form Agcl&amp;nbsp;" vertex="1">
+          <mxGeometry height="105" width="270" x="540" y="592.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Methodologies" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KURYSRoDygEF-QiSVCdS-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Enginering Idea and Underlying Scientific Principal" vertex="1">
+          <mxGeometry height="30" width="230" x="560" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
