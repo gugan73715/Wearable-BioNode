@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="XCrxx5rRu1nj_IgTH_1d">
-    <mxGraphModel dx="2828" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="KURYSRoDygEF-QiSVCdS-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Measure the Half-cell potential of a Ag/Agcl electrode against a reference electrode whose potential does not depend on Cl- concentration. So, Potential ∝ log(Concentration of Cl-)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Based on Nernst equation and Nernst response (59.2mV per decade for Cl-)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="135" width="270" x="540" y="427" as="geometry" />
         </mxCell>
-        <mxCell id="KURYSRoDygEF-QiSVCdS-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Drive constant current between Ag anode and a inert non-Ag/Agcl eletrode like Pt to release Ag+ from anode and form Agcl&amp;nbsp;" vertex="1">
+        <mxCell id="KURYSRoDygEF-QiSVCdS-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Drive constant current between Ag anode and a inert non-Ag/Agcl eletrode like Pt to release Ag+ from anode and form Agcl to" vertex="1">
           <mxGeometry height="105" width="270" x="540" y="592.5" as="geometry" />
         </mxCell>
         <mxCell id="KURYSRoDygEF-QiSVCdS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Methodologies" vertex="1">
