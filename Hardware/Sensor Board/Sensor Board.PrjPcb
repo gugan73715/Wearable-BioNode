@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=1
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=
+ManagedProjectGUID=F03F1319-F0DB-4F2F-BCA7-4BC4453F78CF
+VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
+ReleaseVaultName=gugan Sivakumar
+ItemGUID=F03F1319-F0DB-4F2F-BCA7-4BC4453F78CF
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E&ItemGUID=75FA124D-5DFE-4B92-8313-C26C40BB9344&RevisionGUID=10925C88-B872-4F57-AD9F-79D4579856A7&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
