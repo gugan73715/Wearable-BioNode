@@ -138,23 +138,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GLFHQYML
 
 [Document6]
-DocumentPath=PMOLED.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CCLVNOMD
-
-[Document7]
 DocumentPath=IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,6 +153,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OENELLUW
+
+[Document7]
+DocumentPath=PMOLED.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CCLVNOMD
 
 [Document8]
 DocumentPath=Fuel Gauge.SchDoc
@@ -342,23 +342,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=PMOLED.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
 DocumentPath=GNSS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNYOTJUC
 
-[Document20]
+[Document19]
 DocumentPath=LORA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -391,6 +374,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSNFPIWJ
+
+[Document20]
+DocumentPath=PMOLED.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -1396,10 +1396,22 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=BioNode.SchLib
-ComponentDesignItemID0=TPS61046YFFR
-ComponentSymbolReference0=TPS61046YFFR
-ComponentUpdate0=1
+ComponentDesignItemID0=CL03A104KO3NNNC
+ComponentSymbolReference0=CL03A104KO3NNNC
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=BioNode.SchLib
+ComponentDesignItemID1=GRM033R61C105ME15D
+ComponentSymbolReference1=GRM033R61C105ME15D
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=BioNode.SchLib
+ComponentDesignItemID2=LR1121IMLTRT
+ComponentSymbolReference2=LR1121IMLTRT
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1430,8 +1442,14 @@ ParameterUpdate6=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=BGA6C40P2X3_88X123X62
+ModelName0=CL03A104KO3NNNC
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CL03A105MQ3CSNH
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=QFN50P500X500X100-33N-D
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
