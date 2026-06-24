@@ -1,4 +1,0 @@
-Record=TopLevelDocument|FileName=Root.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=U_ECG Front End|SchDesignator=U_ECG Front End|FileName=ECG Front End.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=ECG Front End.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=U_EDA Front End|SchDesignator=U_EDA Front End|FileName=EDA Front End.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=EDA Front End.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=U_PPG Front End|SchDesignator=U_PPG Front End|FileName=PPG Front End.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PPG Front End.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
