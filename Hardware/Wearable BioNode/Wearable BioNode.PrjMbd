@@ -35,10 +35,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=247EA210-1ACA-45FE-85E2-483EF21DD1BB
+ManagedProjectGUID=51DDEEFB-F8DE-465E-B88F-1E33E14C5B79
 VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
 ReleaseVaultName=gugan Sivakumar
-ItemGUID=247EA210-1ACA-45FE-85E2-483EF21DD1BB
+ItemGUID=51DDEEFB-F8DE-465E-B88F-1E33E14C5B79
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E&ItemGUID=B7B72097-B468-4347-9791-41FED8E8994C&RevisionGUID=1F6C301D-5AE6-475A-9149-927A0D6D35C7&"MainFilename=MultiBoard.PrjMbd"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
@@ -120,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
-ManagedProjectGUID=97FD983F-7414-4C8E-8B96-5FFA02BB4200
+ManagedProjectGUID=B97263E3-8379-44D6-B8B5-187F313D347E
 RevisionGUID=
 ProjectName=Main Board.PrjPcb
 VaultURL=https://gugan-sivakumar.365.altium.com:443/vault/
@@ -143,11 +143,21 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 VaultGUID=DBAC0132-DA97-44E8-A276-6AACF6951B1E
-ManagedProjectGUID=1D28D447-5CBB-4159-8527-99261BB10211
+ManagedProjectGUID=F03F1319-F0DB-4F2F-BCA7-4BC4453F78CF
 RevisionGUID=
 ProjectName=Sensor Board.PrjPcb
 VaultURL=https://gugan-sivakumar.365.altium.com:443/vault/
 VaultName=gugan Sivakumar
+
+[Configuration1]
+Name=Default - All Constraints
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=
+ConfigurationType=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -809,6 +819,16 @@ Type158=1
 Type159=1
 Type160=1
 Type161=1
+Type162=1
+Type163=1
+Type164=1
+Type165=1
+Type166=1
+Type167=1
+Type168=1
+Type169=1
+Type170=1
+Type171=1
 
 [Difference Levels]
 Type1=1
@@ -899,6 +919,13 @@ Type85=1
 Type86=1
 Type87=1
 Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
 
 [Electrical Rules Check]
 Type1=1
