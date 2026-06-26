@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="CBl6GuvdJ9SK1baWPvYd">
-    <mxGraphModel dx="1414" dy="841" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3390" dy="2965" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vEdlxCq0vVzEuJBlY6MA-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=21;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="572" width="203" x="1040" y="726" as="geometry" />
+          <mxGeometry height="572" width="203" x="1040" y="679" as="geometry" />
         </mxCell>
         <mxCell id="vEdlxCq0vVzEuJBlY6MA-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#0000FF,#FFCC99);labelBorderColor=none;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="749" width="697" x="1317" y="492" as="geometry" />
@@ -474,7 +474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2SvVSmVpdlOgwpsUyUDe-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontColor=#000000;" value="Board to Board Mezzanine Connector" vertex="1">
-          <mxGeometry height="30" width="221" x="1039" y="682" as="geometry" />
+          <mxGeometry height="30" width="221" x="1031" y="635" as="geometry" />
         </mxCell>
         <mxCell id="vEdlxCq0vVzEuJBlY6MA-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Satelliete LORA -&amp;nbsp;&lt;div&gt;Semtech LR1121&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="124" x="1458" y="918" as="geometry" />
@@ -678,7 +678,7 @@
           <mxGeometry height="60" width="71" x="1416" y="1004" as="geometry" />
         </mxCell>
         <mxCell id="-rlk00RUQs6YNOxS7Aum-59" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(33, 37, 41); font-family: NeoSansPro, Arial; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;IEC 80601-2-49&lt;/span&gt;" vertex="1">
-          <mxGeometry height="44" width="155" x="1209.8235294117649" y="123.6470588235295" as="geometry" />
+          <mxGeometry height="44" width="155" x="1221.003529411765" y="21.9970588235295" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
