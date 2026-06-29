@@ -1,17 +1,20 @@
-LTspice 26.0.1 for Windows
-Circuit: C:\Users\gugan\Documents\GitHub\Wearable-BioNode\Design Docs\Simulation (LTspice)\TCXO PDN Filter.net
-Start Time: Sat Jun 27 18:17:44 2026
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\TCXO PDN Filter.net
+Start Time: Mon Jun 29 15:49:22 2026
 solver = Normal
-Maximum thread count: 24
+Maximum thread count: 22
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 0.194 seconds.
+Total elapsed time: 0.112 seconds.
 
 Files loaded:
-C:\Users\gugan\Documents\GitHub\Wearable-BioNode\Design Docs\Simulation (LTspice)\TCXO PDN Filter.net
-C:\Users\gugan\Documents\GitHub\Wearable-BioNode\Design Docs\Simulation (LTspice)\GRM033R61C104KE18_DC0V_25degC.mod
-C:\Users\gugan\Documents\GitHub\Wearable-BioNode\Design Docs\Simulation (LTspice)\GCQ1555C1H200JB01_DC0V_25degC.mod
-C:\Users\gugan\Documents\GitHub\Wearable-BioNode\Design Docs\Simulation (LTspice)\GRM1555CYA103GE01_DC0V_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\TCXO PDN Filter.net
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\GRM033R61C104KE18_DC0V_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\GJM1555C1H140FB01_DC0V_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\GRM155R61H104KE19_DC1V8_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\GCH155R61A474KE11_DC1V8_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\GRM0335C1H240GA01_DC0V_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\GCQ1555C1H330GB01_DC0V_25degC.mod
 
