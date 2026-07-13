@@ -187,7 +187,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RXGACNSK
 
 [Document9]
 DocumentPath=..\Main Board\BioNode.SchLib
@@ -204,7 +204,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=INNIFGYS
 
 [Document10]
 DocumentPath=EDA Front End.SchDoc
