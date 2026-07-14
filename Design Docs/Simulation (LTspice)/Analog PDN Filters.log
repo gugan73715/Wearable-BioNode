@@ -1,0 +1,20 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\Analog PDN Filters.net
+Start Time: Mon Jul 13 11:40:23 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.135 seconds.
+
+Files loaded:
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\Analog PDN Filters.net
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\Spice_Models(SimSurf)\BLM15EG221SN1.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\Spice_Models(SimSurf)\GRM155R61H104KE19_DC4V8_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\Spice_Models(SimSurf)\GJM1555C1H140FB01_DC0V_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\Spice_Models(SimSurf)\GRM155R61H105KE05_DC4V8_25degC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\Spice_Models(SimSurf)\LQM18PH1R0MFC.mod
+C:\Users\GuganSivakumar\Documents\Github\Wearable-BioNode\Design Docs\Simulation (LTspice)\Spice_Models(SimSurf)\GRM1555C1H8R0BA01_DC0V_25degC.mod
+
